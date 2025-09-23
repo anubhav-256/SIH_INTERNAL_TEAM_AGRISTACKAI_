@@ -21,5 +21,5 @@
 - **SIH Presentation:** [Final SIH Presentation](https://drive.google.com/file/d/1QnZorIE6xt5bJtj-6TixkTpvxAfqkAp5/view?usp=sharing)
 - **Video Demonstration:** [Watch Video](https://www.youtube.com/watch?v=f6UYU3nWYlU)
 - **Live Deployment:** [View Deployment](https://wokwi.com/projects/442692665028747265)
-- **Source Code:** [GitHub Repository](GITHUB LINK TO THE REPO)
+- **Source Code:** [GitHub Repository]([GITHUB LINK TO THE REPO](https://github.com/anubhav-256/SIH_INTERNAL_TEAM_AGRISTACKAI_))
 - **Additional Resources:** [Other Relevant Links](ANY OTHER RELEVANT LINKS)
